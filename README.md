@@ -40,10 +40,12 @@ The breeding system is driven by a YAML configuration, making it easy for modpac
 DNA Genetics has been designed to work alongside popular creature mods and overhauls such as:
 
 
-* Let Me Tame You
-* Portable Pals
+* [__Let Me Tame You__](https://thunderstore.io/c/valheim/p/Meldurson/LetMeTameYou/)
+* [__Portable Pals__](https://thunderstore.io/c/valheim/p/Meldurson/PortablePals/)
+* [__Mount up Restored__](https://thunderstore.io/c/valheim/p/Meldurson/MountUpRestored/)
 * CLLC (Creature Level and Loot Control)
 * SLS (Star Level System)
+* Monster Modifiers
 
 
 ## ⚙️Configuration
