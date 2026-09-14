@@ -111,10 +111,8 @@ Whether you're building the perfect wolf pack, breeding giant boars, or perfect 
 
 
 ## ❓Contact:
-The most reliable way to reach out would be to ping me in the [Valheim Modding Discord](https://discord.com/invite/GUEBuCuAMz) under @Meldurson. or dm me on Discord.
+The most reliable way to reach out would be to ping me in the [Valheim Modding Discord](https://discord.com/invite/X3thsRXAJD) under @Meldurson. or dm me on Discord.
 
 If you want to support me you can do so through my Ko-fi account:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3NARM0)
-
-
